@@ -20,6 +20,6 @@ Apres compilation, le fichier executable est créé dans le dossier __build__ et
 
 ## Execution 
 Pour l'execution, il faut mettre les images sources qui seront utilisées and le dossier __src/sources__  
-Pour la suite, aller a l'invite de commande et entrer la commande __./run__  _
+Pour la suite, aller a l'invite de commande et entrer la commande __./run__  
  
 
