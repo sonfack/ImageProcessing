@@ -16,12 +16,10 @@ Pour compilier le code il faut:
 1. se placer dans repertoir __build__ 
 2. taper la commande __ckmake ..__  
 3. taper la commande __make__  
- 
-
-
-## Compilation 
-
+Apres compilation, le fichier executable est créé dans le dossier __build__ et s'appele __run__   
 
 ## Execution 
-
+Pour l'execution, il faut mettre les images sources qui seront utilisées and le dossier __src/sources__  
+Pour la suite, aller a l'invite de commande et entrer la commande __./run__  _
+ 
 
