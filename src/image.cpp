@@ -31,7 +31,7 @@ Image::Image(Mat image){
 		string file = this->sources+this->imageName; 
 		imwrite(file, image); 
 	}else{
-		cout<<"Image vide"<<endl; 
+		cout<<"Image  ici est vide vide"<<endl; 
 	}
 }
 
