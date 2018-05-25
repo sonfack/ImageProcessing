@@ -14,7 +14,7 @@ Le code de cett application est structuré comme suit :
 ## Compilation 
 Pour compilier le code il faut:  
 1. se placer dans repertoir __build__ 
-2. taper la commande __ckmake ..__  
+2. taper la commande __cmake ..__  
 3. taper la commande __make__  
 Apres compilation, le fichier executable est créé dans le dossier __build__ et s'appele __run__   
 
